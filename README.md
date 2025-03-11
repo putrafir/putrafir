@@ -1,4 +1,4 @@
-<p align="left">Ahmad Putra Firdaus di sini. Keahlian utama saya adalah pengembangan web dengan Laravel dan Next.js. Saya menikmati tantangan dalam membangun aplikasi web yang kuat dan responsif, baik di sisi server maupun klien. Saya percaya bahwa kunci keberhasilan proyek adalah kode yang terorganisir dengan baik dan mengikuti praktik pengembangan yang solid.</p>
+<p align="left">Ahmad Putra Firdaus here. My main expertise is web development with Laravel and Next.js. I enjoy the challenge of building robust and responsive web applications, both on the server and client side. I believe that the key to a successful project is well-organized code and following solid development practices.</p>
 
 ###
 
